@@ -1,4 +1,4 @@
-# practice_academind
+# Dice Rolling App in Flutter
 
 A new Flutter project.
 
